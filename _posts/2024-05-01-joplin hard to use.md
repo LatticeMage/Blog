@@ -2,7 +2,7 @@
 layout: post
 title:  "joplin hard to use"
 date:   2024-05-01 10:00:00 +0800
-tags: [Future]
+tags: [Programming]
 ---
 
 I feel hard to build joplin env.
