@@ -22,9 +22,9 @@ title: LatticeMage
 email: latticemage@gmail.com
 url: https://lattice.posetmage.com # the base hostname & protocol for your site, e.g. http://example.com
 
-description: Snippets
-baseurl: /Snippets # the subpath of your site, e.g. /blog
-repository: latticemage/Snippets
+description: Blog
+baseurl: /Blog # the subpath of your site, e.g. /blog
+repository: latticemage/Blog
 
 defaults:
   -

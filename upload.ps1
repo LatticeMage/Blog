@@ -12,8 +12,8 @@ cd ../
 
 
 git config --local user.name "LatticeMage"
-git config --local user.email "LatticeMage@users.noreply.github.com"
-git remote set-url origin git@LM:LatticeMage/Snippets.git
+git config --local user.email "lattice@posetmage.com"
+git remote set-url origin git@LM:LatticeMage/Blog.git
 
 git submodule update --recursive --remote
 
