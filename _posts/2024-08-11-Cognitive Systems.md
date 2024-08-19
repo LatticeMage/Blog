@@ -5,7 +5,7 @@ date:   2024-08-11 10:00:00 +0800
 tags: [Cognitive Psychology]
 ---
 
-# Cognitive Systems: Integrating Deep Analysis and Intuitive Execution in Competitive Fields**
+# Cognitive Systems: Integrating Deep Analysis and Intuitive Execution in Competitive Fields
 
 **Introduction**
 
