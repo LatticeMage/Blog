@@ -2,7 +2,7 @@
 layout: post
 title:  "Thinkings"
 date:   2023-11-11 10:00:00 +0800
-tags: [Chat]
+tags: [Snippets]
 ---
 
 
