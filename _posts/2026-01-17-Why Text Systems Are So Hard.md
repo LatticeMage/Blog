@@ -114,7 +114,7 @@ When I clearly define the data structure (Schema)—for example, using JSON to d
 
 ---
 
-## IV. App Development: The Platform Dilemma
+## V. App Development: The Platform Myth
 
 To run my software everywhere, I also tried developing Mobile Apps.
 
@@ -131,34 +131,34 @@ I don't need to learn three languages. **The Web is the ultimate container.** In
 
 ---
 
-## V. Convergence: All Paths Lead to One
+## VI. Convergence: All Paths Lead to One
 
-After this decade of struggle, from writing the worst `README.md` websites, to being tortured by LaTeX, to crafting complex GUI systems, and finally to cross-platform apps.
+After ten years of struggle—from the worst README.md website, to LaTeX torture, to structured YAML scripts, to complex GUIs, to cross-platform apps—
 
-I once thought I was doing completely different things, learning completely different technologies.
-"Am I learning too much?" I often asked myself.
+I once thought I was doing completely different things, learning completely different technologies. “Am I learning too many random things?” I often asked myself.
 
-But when I calmed down and reviewed it all, I was surprised to find that these experiences eventually converged into the same shape.
+But when I finally looked back calmly, I was surprised to find that all these experiences converged into the same shape.
 
-Whether writing a blog, writing a book, or developing an enterprise software system, I was essentially solving the same problem: **"How to efficiently flow structured information and present it to humans."**
+Whether blogging, writing books, designing scripts, or building complex software systems, I was always solving the same problem:
+
+**How to make structured information flow efficiently and be presented to humans.**
 
 Look how similar these patterns are:
 
-*   **Blog**: Markdown (Data) -> Svelte/WC (Logic) -> HTML (Presentation)
-*   **Book**: Markdown (Data) -> CSS (Logic) -> PDF (Presentation)
-*   **GUI System**: JSON (Data) -> SvelteFlow (Presentation) -> Python (Execution Logic)
-*   **Cross-Platform App**: Web Bundle (Data & Logic) -> Capacitor (Container) -> Native App (Presentation)
+* **Blog**: Markdown (data) → Svelte/WC (logic) → HTML (presentation)
+* **Book**: Markdown (data) → CSS (logic) → PDF (presentation)
+* **Script / Worldbuilding**: YAML (data) → Liquid Template (logic) → HTML (presentation)
+* **GUI Systems**: JSON (data) → SvelteFlow (presentation) → Python (execution logic)
+* **Cross-platform Apps**: Web bundle (data & logic) → Capacitor (container) → Native app (presentation)
 
-I took a long detour only to throw away all the junk in my toolbox.
+I took a long detour, and finally threw away all the junk in my toolbox.
 
-I no longer obsess over which framework to use because I know that **"Separation"** is the key.
-The data layer belongs to data (Markdown/JSON/YAML). The logic layer belongs to logic (Svelte/Python). The presentation layer belongs to presentation (HTML/CSS).
+I no longer obsess over which framework to use, because I know **separation** is the key. Data belongs to data (Markdown/JSON/YAML), logic belongs to logic (Svelte/Python), and presentation belongs to presentation (HTML/CSS).
 
-Why are text systems so hard?
-Because we always try to solve content, logic, and styling together.
+Why are text systems so difficult? Because we always try to solve content, logic, and style all at once.
 
-LaTeX failed by mixing typesetting logic into the content; Jekyll failed by mixing JS logic into HTML; React failed by mixing State logic into UI rendering.
+LaTeX fails by mixing layout logic into content. Jekyll fails by mixing JavaScript logic into HTML. React fails by mixing state logic into UI rendering.
 
-When you cleanly separate these three, you realize that whether you are writing an article or developing an enterprise system, it's actually the same thing.
+Once you cleanly separate these three, you’ll find that writing an article and building an enterprise system are fundamentally the same thing.
 
-Those processes I once thought were detours—the ten years of "digging"—finally allowed me to see the true essence of the relationship between code and text. This Swiss Army knife, sharpened over ten years, is finally sharp.
+What I once thought were detours—years of shoveling dirt—ultimately revealed the essence of the relationship between code and text. This Swiss Army knife, sharpened over ten years, is finally sharp.
