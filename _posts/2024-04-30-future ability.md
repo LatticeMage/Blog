@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Future Ability"
 date:   2024-04-30 10:00:00 +0800
 tags: [Future]

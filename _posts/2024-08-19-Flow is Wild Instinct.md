@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Flow is Wild Instinct"
 date:   2024-08-19 10:00:00 +0800
 tags: [Psychology, Flow, Cognitive]

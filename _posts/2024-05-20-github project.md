@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GitHub Project Management"
 date:   2024-05-01 10:00:00 +0800
 tags: [Management]

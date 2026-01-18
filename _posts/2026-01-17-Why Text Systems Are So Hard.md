@@ -1,7 +1,7 @@
 ---
-title:  "Free-Solo-2018"
-date:   2025-10-10 10:00:00 +0800
-tags: [Snippets]
+title:  "Why Text Systems Are So Hard: My Ten-Year Journey to Understanding the Essence of Text and Code"
+date:   2026-01-17 10:00:00 +0800
+tags: [Programming]
 ---
 
 # What Happens After Watching *Free Solo* (2018): Falling Into the World of Fearless Climbers and Parkour Masters

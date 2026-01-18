@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hidden Logic Behind Popular Investment Strategies"
 date:   2024-09-18 10:00:00 +0800
 tags: [Investing]

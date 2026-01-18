@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Impossible Triangle"
 date:   2024-02-08 10:00:00 +0800
 tags: [Learning]

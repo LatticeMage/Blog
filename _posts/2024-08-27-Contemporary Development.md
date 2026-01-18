@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Evolution of Software Development: From Traditional to Contemporary"
 date:   2024-08-27 10:00:00 +0800
 tags: [Development, Technology, WebTech]

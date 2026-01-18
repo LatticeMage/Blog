@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Learning to Be a Senior Leader by Modern AIs as Crews"
 date:   2024-10-02 10:00:00 +0800
 tags: [Senior, Management]

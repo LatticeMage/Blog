@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Write once run anywhere"
 date:   2024-09-15 10:00:00 +0800
 tags: [Development, Technology, WebTech]

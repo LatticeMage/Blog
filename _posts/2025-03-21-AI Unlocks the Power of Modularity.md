@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "AI Unlocks the Power of Modularity"
 date:   2025-03-21 10:00:00 +0800
 tags: [Programming]

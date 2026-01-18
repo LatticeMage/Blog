@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Cognitive Systems"
 date:   2024-08-11 10:00:00 +0800
 tags: [Cognitive Psychology]

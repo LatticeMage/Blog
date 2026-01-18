@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Virtualization Nightmare: Multipass in VirtualBox"
 date:   2025-04-18 10:00:00 +0800
 tags: [Programming]

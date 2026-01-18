@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "AI help learn coding"
 date:   2025-02-12 10:00:00 +0800
 tags: [Learning, Cognitive]

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Language is Just the Key, Culture is the Core Behind the Door"
 date:   2025-08-21 10:00:00 +0800
 tags: [Learning]
