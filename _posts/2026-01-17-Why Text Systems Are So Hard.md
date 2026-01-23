@@ -1,6 +1,6 @@
 ---
-title:  "Why Text Systems Are So Hard: My Ten-Year Journey to Understanding the Essence of Text and Code"
-date:   2026-01-17 10:00:00 +0800
+title: "Why Text Systems Are So Hard: My Ten-Year Journey to Understanding the Essence of Text and Code"
+date:  2026-01-17 10:00:00 +0800
 tags: [Programming]
 ---
 
