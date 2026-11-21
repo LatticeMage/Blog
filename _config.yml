@@ -39,6 +39,9 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
 
+# Publish posts dated later than build-server UTC (+0800 same-day posts)
+future: true
+
 kramdown:
   parse_block_html: true
 
